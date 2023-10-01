@@ -92,7 +92,7 @@
     },
     "OpenAIEngine": {
       "type": "string",
-      "defaultValue": "gpt-35-turbo",
+      "defaultValue": "gpt-4-32k",
       "metadata": {
         "description": "OpenAI Engine"
       }
@@ -120,7 +120,7 @@
     },
     "OpenAITemperature": {
       "type": "string",
-      "defaultValue": "0.2",
+      "defaultValue": "0.0",
       "metadata": {
         "description": "OpenAI Temperature"
       }
