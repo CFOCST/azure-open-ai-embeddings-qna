@@ -139,6 +139,13 @@
       "metadata": {
         "description": "OpenAI Embeddings Engine for Queries"
       }
+     },
+    "OpenAITemperature": {
+      "type": "string",
+      "defaultValue": "0.0",
+      "metadata": {
+        "description": "OpenAI Temperature"
+      }
     },
     "newGuid": {
       "type": "string",
